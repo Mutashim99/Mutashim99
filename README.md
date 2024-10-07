@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mutashim</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Backend Technologies***
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 📫 How to reach me **muhtashimmohsin@gmail.com**
 
