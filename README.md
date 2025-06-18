@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mutashim</h1>
-<h3 align="center">A passionate Software Engineerign Student from Pakistan</h3>
+<h3 align="center">A passionate Software Engineerigng Student from Pakistan</h3>
 
 - I am Working on [Ecommerce Website (Full Stack)](https://github.com/Mutashim99/EcommerceAPI)
 
