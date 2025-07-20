@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ASP.NET Core and Javascript**
 
-- 📫 How to reach me **muhtashimmohsin@outlook.com**
+- 📫 How to reach me **mutashimmohsin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
