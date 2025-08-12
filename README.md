@@ -1,65 +1,80 @@
 <h1 align="center">Hi 👋, I'm Mutashim</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Software Engineering Student from Pakistan</h3>
+<h3 align="center">🚀 Full-Stack Developer | Software Engineering Student</h3>
 
 <p align="center">
-  💻 Turning ideas into functional software with clean code & solid architecture.<br>
-  🌍 Based in Pakistan | Currently pursuing Software Engineering.<br>
-  🧠 Actively learning and building real-world projects to deepen backend and system design knowledge.
+💻 Turning ideas into production-ready applications with clean code & solid architecture.<br>
+🌍 Based in Pakistan | Currently pursuing Software Engineering.<br>
+🧠 Building real-world projects to master backend architectures, scalability, and system design.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Mutashim99" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mutashimmohsin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@HappyPlaysYT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-- 🎓 I’m a Software Engineering student with a strong interest in full-stack development and backend architectures.
 
-- 🔧 Focused on building **production-grade applications** with:
-  - Clean APIs
+
+---
+## 👨‍💻 About Me
+- 🎓 Software Engineering student passionate about **Full-Stack Development** & **Backend Architecture**.
+- 🔧 Skilled in creating:
+  - Clean REST APIs & GraphQL APIs
   - Scalable database schemas
-  - Authentication and authorization
+  - Authentication & authorization
   - Background jobs, caching, and analytics
-
 - 🧠 Currently working with:
-  - **ASP.NET Core**, **Node.js**, **TypeScript**, **React**, and **MongoDB/PostgreSQL**
-  - Tools like **Redis**, **Prisma**, **BullMQ**, **Vercel**, and **Railway**
-
+  - **ASP.NET Core**, **Node.js**, **TypeScript**, **React**
+  - Databases: **MongoDB**, **PostgreSQL**, **MySQL**
+  - Tools: **Redis**, **Prisma**, **BullMQ**, **Vercel**, **Railway**
 - 📚 Exploring:
   - Distributed systems & microservices
-  - Job queues, CRON automation, rate-limiting
   - SaaS product development using open-source AI tools
-
-- 📫 Reach me at: **mutashimmohsin@gmail.com**
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mutashimmohsin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutashimmohsin" height="30" width="40" />
-  </a>
-</p>
+- 📫 Contact: **mutashimmohsin@gmail.com**
 
 ---
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
+## 🚀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mutashimmohsin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
+
+
+
+---
+## 🛠 Tech Stack
+<p align="center">
+   <!-- Backend / Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!-- .NET / C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  
+  <!-- JavaScript / Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+ 
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
