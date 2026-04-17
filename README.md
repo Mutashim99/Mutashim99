@@ -11,7 +11,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/Mutashim99" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mutashim.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
   <a href="https://linkedin.com/in/mutashimmohsin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@HappyPlaysYT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
