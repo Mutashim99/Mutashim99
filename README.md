@@ -5,5 +5,6 @@
 <h2>mutashim mohsin</h2>
 
 <p>
-  i build production-grade web apps so i don't have to leave my house. <br>
+  full-stack developer. mostly just moving JSON from a database to a frontend and pretending it's magic. <br>
+  i build production-grade web apps so i don't have to leave my house.
 </p>
