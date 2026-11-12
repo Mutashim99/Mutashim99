@@ -5,6 +5,6 @@
 <h2>mutashim mohsin</h2>
 
 <p>
-  full-stack developer. mostly just moving JSON from a database to a frontend and pretending it's magic. <br>
+  full-stack developer.<br>
   i build production-grade web apps so i don't have to leave my house.
 </p>
